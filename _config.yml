@@ -1,0 +1,11 @@
+# Site settings
+title: HabNZ
+email: canthab@hab.org.nz
+description: "High altitude ballooning in New Zealand"
+baseurl: ""
+url: "http://hab.org.nz/"
+username: habnz
+
+# Build settings
+markdown: kramdown
+permalink: pretty

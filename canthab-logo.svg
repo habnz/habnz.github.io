@@ -15,9 +15,9 @@
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="canthab-logo.svg"
-   inkscape:export-filename="/home/malc/wholemeal/projects/hab.org.nz/images/canthab-logo.png"
-   inkscape:export-xdpi="8.3299999"
-   inkscape:export-ydpi="8.3299999">
+   inkscape:export-filename="/home/malc/wholemeal/projects/hab.org.nz/images/canthab-twitter-logo.png"
+   inkscape:export-xdpi="41.434875"
+   inkscape:export-ydpi="41.434875">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="995.91244"
-     inkscape:cy="312.003"
+     inkscape:zoom="1.4"
+     inkscape:cx="88.2286"
+     inkscape:cy="106.75388"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,23 +61,10 @@
      transform="translate(1320.2125,98.665323)">
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:27.29999924;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m -440,275.21875 c -320.27501,0 -618.1444,50.53053 -866.5625,137.28125 l 0,174.15625 c 0,11.08 8.92,20 20,20 l 2091.40625,0 c 3.32794,0 6.4637,-0.82376 9.21875,-2.25 C 527.17997,404.42345 72.213567,275.21875 -440,275.21875 z"
+       d="m -440,275.21875 c -320.27501,0 -618.1444,50.53053 -866.5625,137.28125 2.3197,27.3904 0,196.15625 0,196.15625 l 2120.625,-0.25 C 527.17997,408.42345 72.213567,275.21875 -440,275.21875 z"
        id="rect3775"
-       inkscape:connector-curvature="0" />
-    <text
-       xml:space="preserve"
-       style="font-size:40.44288254px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Gotham Ultra;-inkscape-font-specification:Gotham Ultra Heavy"
-       x="-672.31726"
-       y="192.99223"
-       id="text3767"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3769"
-         x="-672.31726"
-         y="192.99223"
-         style="font-size:264.71704102px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;letter-spacing:20.15999985px;font-family:Gotham Ultra;-inkscape-font-specification:Gotham Ultra Heavy"><tspan
-   style="font-size:264.71704102px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;letter-spacing:20.15999985px;fill:#888a85;font-family:Gotham Ultra;-inkscape-font-specification:Gotham Ultra Heavy"
-   id="tspan3773">Cant</tspan>HAB</tspan></text>
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccs" />
     <path
        style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:27.29999923999999822;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;stroke-linejoin:round"
        d="m -1008.0423,401.53809 c -58.0207,0 -184.8579,-93.06007 -184.8579,-209.10157 0,-116.041499 94.0703,-210.111719 210.11178,-210.111719 116.0415,0 210.1117,94.07022 210.1117,210.111719 0,81.38931 -68.1681,160.66352 -104.9894,177.99119 -36.8213,17.32766 -28.3508,169.50128 -28.3508,169.50128 0,0 -44.0046,-138.3909 -102.02538,-138.3909 z"

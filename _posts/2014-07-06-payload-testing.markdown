@@ -22,4 +22,26 @@ If you are planning on tracking any of our flights
 this is a great opportunity to test your system.  Details of how to track
 our payloads is on the [tracking](/tracking/) page.
 
-Full details of the payload telemetry settings will be posted here mid week.
+Once you have installed [dl-fldigi](http://ukhas.org.uk/projects:dl-fldigi), you
+can do the following to configure it for our payload:
+
+- Go to _DL Client -> Configure_ on the menu
+- Select the _All payloads (testing)_ tab
+- Select _CANTHAB-MOA-1_ from the (long) list
+- Click _Autoconfigure_
+
+This should set up dl-fldigi to decode the payload correctly.  Follow the
+instructions at [the UKHAS tracking
+guide](http://ukhas.org.uk/guides:tracking_guide) until you get a 'green'
+decode.  Once that is working, provided you are online you should see your
+telemetry appearing on the [Spacenear.us tracker](http://spacenear.us/tracker/)
+
+![dl-fldigi green decode](/assets/green-decode-screenshot.png)
+
+If you want to try decoding the payload without dl-fldigi, the transmision
+details are:
+
+- Frequency 434.500 MHz LSB (FSK with 500Hz shift)
+- RTTY 50 baud, 7 bit ascii, no parity, 2 stop bits
+- Telemetry sentances are `$$CALLSIGN,sentence_id,time,lat,lon,altitude,speed,course,temperature,checksum`
+

@@ -36,4 +36,6 @@ together, and then we will await a launch window in the coming weeks.
 Huge thanks again to Rob ZL3AKM for taking the time to track the payload today
 and for keeping me company on the radio as I drove up and down the hills :)
 
+![spacenear.us map](/assets/payload-test/spacenear.us-map.png)
+
 Stay tuned in the coming weeks for news of our first launch.
